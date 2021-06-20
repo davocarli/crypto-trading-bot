@@ -142,3 +142,6 @@ config.py
 
 # Virtual environment
 venv/
+
+# VS CODE
+.vscode/
